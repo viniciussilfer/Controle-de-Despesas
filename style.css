@@ -1,0 +1,140 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+/* Classes */
+
+.container{
+	margin: 10px;
+	padding: 5px;
+	background-color: #ddd;
+	text-align: center;
+	padding-bottom: 10px;	
+}
+
+.container2{
+	margin: 10px;
+	padding: 5px;
+	background-color: #ddd;
+	text-align: center;
+	padding-bottom: 10px;
+	height:100%;
+}
+
+.cabecalho{
+	font-family: Verdana;
+	text-align: center;
+	background-color: #f7b600;
+	color: white;
+	padding-bottom: 5px;
+}
+
+/*links*/
+.cabecalho a{
+	text-decoration: none;
+	padding-bottom: 5px;
+	color: white;
+}
+
+.cabecalho a:hover{
+	color: #f7b600;
+	background: #fff;
+}
+/*-------*/
+
+.tc{
+	padding-top: 5px;
+}
+
+.cadastro{
+	text-align: center;
+}
+
+.campo{
+	width: 250px;
+	height: 30px;
+	font-size: 15px;
+}
+
+.btn{
+	width: 100px;
+	height: 30px;
+	color: white;
+	background-color: #4566;
+	cursor: pointer;
+}
+.btn1{
+	width: 100px;
+	height: 30px;
+	color: white;
+	background-color: #4566;
+	cursor: pointer;
+	margin-right:25px;
+}
+
+.rodape{
+	background-color: #f7b600;
+	text-align: center;
+	font-family: Verdana;
+	font-size: 15px;
+	height: 54px;
+}
+
+
+/* Propriedades */
+
+li{
+	list-style: none;
+}
+
+h5{
+	font-size: 25px;
+	font-family: Verdana;
+	color: #f7b600;
+}
+
+h1{
+	font-family: Verdana;
+}
+
+h6{
+	font-family: Verdana;
+	font-size: 20px;
+}
+
+h2{
+	font-size: 30px;
+	font-family: Verdana;
+}
+
+body{
+	background-color: white;
+}
+
+span{
+
+	font-family: Verdana;
+	font-size: 10px;
+	color: #f7b600;
+
+}
+/*
+p{
+	width: 400px;
+	box-sizing: border-box;
+	padding: 10px;
+	background-color: white;
+	margin-bottom: 5px;
+	color: #f7b600;
+	text-align: left;
+}*/
+
+article{
+	width: 400px;
+	box-sizing: border-box;
+	padding: 10px;
+	background-color: #d6d5d5;
+	margin-bottom: 5px;
+}
